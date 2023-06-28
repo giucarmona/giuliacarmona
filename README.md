@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Generate Datas](https://github.com/giuliacarmona/giuliacarmona/actions/workflows/main.yml/badge.svg)](https://github.com/giuliacarmona/giuliacarmona/actions/workflows/main.yml)
+![Snake animation](https://github.com/giuliacarmona/giuliacarmona/blob/output/github-contribution-grid-snake.svg)
