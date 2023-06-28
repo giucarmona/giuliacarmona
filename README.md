@@ -4,7 +4,7 @@
 Ingressei no T.I em 2020 porém a paixão pela tecnologia e o aprendizado se estende desde a infância</h4> 
 
 <div>
-<img align="left" height="160vh" src='https://github-readme-stats.vercel.app/api?username=giuliacarmona&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true'>
+<img align="left" height="150vh" src='https://github-readme-stats.vercel.app/api?username=giuliacarmona&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true'>
 <img align="rigth" height="150vh" src='https://github-readme-stats.vercel.app/api/top-langs/?username=giuliacarmona&show_icons=true&langs_count=5&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true'>
 </div>
 
