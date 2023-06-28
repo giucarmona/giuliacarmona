@@ -5,7 +5,7 @@ Ingressei no T.I em 2020 porém a paixão pela tecnologia e o aprendizado se est
 
 <div>
 <img align="center" height="180vh" src='https://github-readme-stats.vercel.app/api?username=giuliacarmona&show_icons=true&theme=slateorange&bg_color=00000000&hide_border=true'>
-<img align="center" height="100vh" src='https://github-readme-stats.vercel.app/api/top-langs/?username=giuliacarmona&show_icons=true&langs_count=5&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true'>
+<img align="center" height="120vh" src='https://github-readme-stats.vercel.app/api/top-langs/?username=giuliacarmona&show_icons=true&langs_count=5&layout=compact&theme=slateorange&bg_color=00000000&hide_border=true'>
 </div>
 
 ![Snake animation](https://github.com/giuliacarmona/giuliacarmona/blob/output/github-contribution-grid-snake.svg)
