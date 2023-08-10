@@ -2,7 +2,7 @@
 
   <h3 align="center"> Eu sou a 
     <a href="https://www.linkedin.com/in/giuliacarmona/"> Giulia Carmona </a>
-      e estudo Ánalise e Desenvolvimento de Sistemas 👩🏻‍🦰💻</h3>
+      e estudo ADS na SPTECH School👩🏻‍🦰💻</h3>
 
 ### <h2> 📊 Github Stats </h2>
   <div align="center">
